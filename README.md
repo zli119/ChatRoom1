@@ -1,26 +1,17 @@
-# 基于spring Boot + spring WebSocket的在线聊天室
+# spring Boot + spring WebSocket online chatroom
 
-### 1. 目的
+### 1. target
 
-一方面加强自己的代码能力，同时巩固所学，另一方面想将之前的图片服务器项目利用起来。
+Build a chatroom
 
-### 2. 技术
+### 2. technology
 
 * SpringBoot(Sping MVC + spring WebSocket + Spring Core + Spring JDBC)
 
-* MySQL数据库
+* MySQL
 * html 5 + CSS + jQuery
 
-### 3. 功能
+### 3. function
 
-* 私聊
-* 群聊
-* 发送图片
-
-### 4. 项目Demo
-
-* http://39.107.67.167:8090
-
-### 5. 项目源码
-
-* https://github.com/wonderheng/chat-room-strong
+* chat one to one
+* chat one to many
