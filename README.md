@@ -1,4 +1,4 @@
-# spring Boot + spring WebSocket online chatroom
+# spring Boot + springWebSocket online chatroom
 
 ### 1. target
 
